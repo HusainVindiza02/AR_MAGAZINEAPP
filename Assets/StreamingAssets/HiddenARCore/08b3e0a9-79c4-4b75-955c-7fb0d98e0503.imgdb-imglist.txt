@@ -1,0 +1,6 @@
+1e482cbf00884e5ab7e3f5b446128bc1|C:\Users\husai\diplom_pak\Assets\textures\sobaka.png|0.1
+9d73b0ab73c54109bf91a6ee46cf7557|C:\Users\husai\diplom_pak\Assets\textures\newbalance.png|0.1
+12bbbf2c5c3044468265ddfd7b46ce64|C:\Users\husai\diplom_pak\Assets\textures\switch.png|0.1
+5522282743cf425bad28c8fdb3d6296a|C:\Users\husai\diplom_pak\Assets\textures\apex.png|0.1
+07210b7dd4cc4bdc927a6df12da3015b|C:\Users\husai\diplom_pak\Assets\textures\pacman.png|0.1
+aa6cdbce503546eb8862fe3b82730e30|C:\Users\husai\diplom_pak\Assets\textures\elonmusk.png|0.1

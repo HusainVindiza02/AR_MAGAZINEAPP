@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5437386007986299049
+  m_GuidHigh: 217737222617521301
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5645825667485936831
+      m_GuidHigh: 13946260765975897015
+    m_SerializedTextureGuid:
+      m_GuidLow: 16831230369854689868
+      m_GuidHigh: 6038011719922127833
+    m_Size: {x: 0.1, y: 0.10330189}
+    m_SpecifySize: 1
+    m_Name: sobaka
+    m_Texture: {fileID: 2800000, guid: 7ff4924c8ad8e994d9939a23ab53cb53, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4686404179843068075
+      m_GuidHigh: 6302171157133431231
+    m_SerializedTextureGuid:
+      m_GuidLow: 7990754627145199568
+      m_GuidHigh: 16283863928639422712
+    m_Size: {x: 0.1, y: 0.1009434}
+    m_SpecifySize: 1
+    m_Name: newbalance
+    m_Texture: {fileID: 2800000, guid: 1e4c6fd0dcff6ee4f88059adf7e7fbe1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4919721004491325228
+      m_GuidHigh: 7263820747349255554
+    m_SerializedTextureGuid:
+      m_GuidLow: 1591147104029742711
+      m_GuidHigh: 12309529198513305723
+    m_Size: {x: 0.1, y: 0.09813954}
+    m_SpecifySize: 1
+    m_Name: switch
+    m_Texture: {fileID: 2800000, guid: 61159677e3dc16147b38af5d963bd4aa, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4781489987149506599
+      m_GuidHigh: 7649881510610741421
+    m_SerializedTextureGuid:
+      m_GuidLow: 7369203719594950957
+      m_GuidHigh: 9002365736605890443
+    m_Size: {x: 0.1, y: 0.10091324}
+    m_SpecifySize: 1
+    m_Name: apex
+    m_Texture: {fileID: 2800000, guid: 3ff1c12dabbd66448bb78adcf0d3ee7c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5466478020478962557
+      m_GuidHigh: 6557701950147492498
+    m_SerializedTextureGuid:
+      m_GuidLow: 17110405400782294219
+      m_GuidHigh: 6910628148821828138
+    m_Size: {x: 0.1, y: 0.10330189}
+    m_SpecifySize: 1
+    m_Name: pacman
+    m_Texture: {fileID: 2800000, guid: a48dcccb5f0eed742a2257f1af7be75f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5110266393604709326
+      m_GuidHigh: 3462832166683959944
+    m_SerializedTextureGuid:
+      m_GuidLow: 8472599635789266010
+      m_GuidHigh: 12730753639941751067
+    m_Size: {x: 0.1, y: 0.10046512}
+    m_SpecifySize: 1
+    m_Name: elonmusk
+    m_Texture: {fileID: 2800000, guid: 9f52bc5ab87a75941b41bd2ffcb8acb0, type: 3}
